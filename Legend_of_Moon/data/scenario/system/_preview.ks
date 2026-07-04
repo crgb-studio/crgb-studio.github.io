@@ -1,2 +1,0 @@
-[hidemenubutton] 
-[return] 
